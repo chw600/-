@@ -1,0 +1,37 @@
+
+timestamp: 20220514-233336
+数据集: cos
+时间窗为2
+BiGru 处理的训练集节点数: 144
+BiGru 处理的验证集节点数: 144
+BiGru 处理的测试集节点数: 144
+BiGru_second: 1
+BiGru_micro: 136187
+BiGru_adj_second: 0
+BiGru_adj_micro: 50894
+MSST_GCN_second: 0
+MSST_GCN_micro: 3662
+Accuracy: 50.00%
+Precision: 50.00%
+Recall: 100.00%
+F1-Score: 66.67%
+threshold: 5.00%
+points_nums: 144
+timestamp: 20220514-233409
+数据集: cos
+时间窗为4
+BiGru 处理的训练集节点数: 144
+BiGru 处理的验证集节点数: 144
+BiGru 处理的测试集节点数: 144
+BiGru_second: 1
+BiGru_micro: 127229
+BiGru_adj_second: 0
+BiGru_adj_micro: 16725
+MSST_GCN_second: 0
+MSST_GCN_micro: 3599
+Accuracy: 33.33%
+Precision: 50.00%
+Recall: 100.00%
+F1-Score: 66.67%
+threshold: 5.00%
+points_nums: 72

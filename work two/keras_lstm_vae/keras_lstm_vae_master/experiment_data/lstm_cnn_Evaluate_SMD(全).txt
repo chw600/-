@@ -1,0 +1,195 @@
+数据集: SMD_1_1
+Accuracy: 8.70%
+Precision: 87.50%
+Recall: 100.00%
+F1-Score: 93.33%
+threshold: 10.00%
+
+数据集: SMD_1_2
+Accuracy: 2.23%
+Precision: 72.73%
+Recall: 88.89%
+F1-Score: 80.00%
+threshold: 30.00%
+
+数据集: SMD_1_3
+Accuracy: 96.55%
+Precision: 47.83%
+Recall: 100.00%
+F1-Score: 64.71%
+threshold: 0.00%
+
+数据集: SMD_1_4
+Accuracy: 93.01%
+Precision: 52.17%
+Recall: 100.00%
+F1-Score: 68.57%
+threshold: 5.00%
+
+数据集: SMD_1_5
+Accuracy: 0.70%
+Precision: 54.55%
+Recall: 100.00%
+F1-Score: 70.59%
+threshold: 60.00%
+
+数据集: SMD_1_6
+Accuracy: 9.37%
+Precision: 89.29%
+Recall: 86.21%
+F1-Score: 87.72%
+threshold: 30.00%
+
+数据集: SMD_1_7
+Accuracy: 9.55%
+Precision: 81.82%
+Recall: 75.00%
+F1-Score: 78.26%
+threshold: 30.00%
+
+数据集: SMD_1_8
+Accuracy: 87.29%
+Precision: 54.29%
+Recall: 95.00%
+F1-Score: 69.09%
+threshold: 25.00%
+
+数据集: SMD_2_1
+Accuracy: 94.97%
+Precision: 66.67%
+Recall: 76.92%
+F1-Score: 71.43%
+threshold: 35.00%
+
+数据集: SMD_2_2
+Accuracy: 11.93%
+Precision: 69.23%
+Recall: 90.00%
+F1-Score: 78.26%
+threshold: 60.00%
+
+数据集: SMD_2_3
+Accuracy: 0.96%
+Precision: 77.78%
+Recall: 77.78%
+F1-Score: 77.78%
+threshold: 10.00%
+
+数据集: SMD_2_4
+Accuracy: 7.59%
+Precision: 73.08%
+Recall: 100.00%
+F1-Score: 84.44%
+threshold: 20.00%
+
+数据集: SMD_2_5
+Accuracy: 3.86%
+Precision: 100.00%
+Recall: 85.00%
+F1-Score: 91.89%
+threshold: 20.00%
+
+数据集: SMD_2_6
+Accuracy: 1.34%
+Precision: 71.43%
+Recall: 71.43%
+F1-Score: 71.43%
+threshold: 40.00%
+
+数据集: SMD_2_7
+Accuracy: 1.52%
+Precision: 100.00%
+Recall: 63.16%
+F1-Score: 77.42%
+threshold: 20.00%
+
+数据集: SMD_2_8
+Accuracy: 78.89%
+Precision: 100.00%
+Recall: 100.00%
+F1-Score: 100.00%
+threshold: 5.00%
+
+数据集: SMD_2_9
+Accuracy: 5.94%
+Precision: 63.64%
+Recall: 77.78%
+F1-Score: 70.00%
+threshold: 40.00%
+
+数据集: SMD_3_1
+Accuracy: 97.52%
+Precision: 66.67%
+Recall: 100.00%
+F1-Score: 80.00%
+threshold: 25.00%
+
+数据集: SMD_3_2
+Accuracy: 45.42%
+Precision: 55.56%
+Recall: 100.00%
+F1-Score: 71.43%
+threshold: 5.00%
+
+数据集: SMD_3_3
+Accuracy: 9.64%
+Precision: 53.19%
+Recall: 100.00%
+F1-Score: 69.44%
+threshold: 10.00%
+
+数据集: SMD_3_4
+Accuracy: 95.76%
+Precision: 87.50%
+Recall: 87.50%
+F1-Score: 87.50%
+threshold: 75.00%
+
+数据集: SMD_3_5
+Accuracy: 26.76%
+Precision: 52.63%
+Recall: 100.00%
+F1-Score: 68.97%
+threshold: 20.00%
+
+数据集: SMD_3_6
+Accuracy: 3.99%
+Precision: 100.00%
+Recall: 60.00%
+F1-Score: 75.00%
+threshold: 30.00%
+
+数据集: SMD_3_7
+Accuracy: 1.37%
+Precision: 66.67%
+Recall: 100.00%
+F1-Score: 80.00%
+threshold: 10.00%
+
+数据集: SMD_3_8
+Accuracy: 95.23%
+Precision: 60.00%
+Recall: 100.00%
+F1-Score: 75.00%
+threshold: 15.00%
+
+数据集: SMD_3_9
+Accuracy: 71.21%
+Precision: 57.14%
+Recall: 100.00%
+F1-Score: 72.73%
+threshold: 5.00%
+
+数据集: SMD_3_10
+Accuracy: 86.89%
+Precision: 54.55%
+Recall: 92.31%
+F1-Score: 68.57%
+threshold: 25.00%
+
+数据集: SMD_3_11
+Accuracy: 0.60%
+Precision: 100.00%
+Recall: 100.00%
+F1-Score: 100.00%
+threshold: 50.00%

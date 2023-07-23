@@ -1,0 +1,196 @@
+timestamp: 20220511-183820
+数据集: SMD_1_1
+模型:LSTM_VAE
+Accuracy: 89.89%Precision: 72.73%Recall: 100.00%F1-Score: 84.21%
+threshold: 55.00%
+second: 0
+micro: 743130
+timestamp: 20220511-183836
+数据集: SMD_1_2
+模型:LSTM_VAE
+Accuracy: 95.55%Precision: 55.56%Recall: 100.00%F1-Score: 71.43%
+threshold: 5.00%
+second: 0
+micro: 605408
+timestamp: 20220511-183853
+数据集: SMD_1_3
+模型:LSTM_VAE
+Accuracy: 95.67%Precision: 78.57%Recall: 91.67%F1-Score: 84.61%
+threshold: 55.00%
+second: 0
+micro: 675271
+timestamp: 20220511-183910
+数据集: SMD_1_4
+模型:LSTM_VAE
+Accuracy: 94.94%Precision: 90.91%Recall: 83.33%F1-Score: 86.96%
+threshold: 25.00%
+second: 0
+micro: 633110
+timestamp: 20220511-183927
+数据集: SMD_1_5
+模型:LSTM_VAE
+Accuracy: 99.26%Precision: 100.00%Recall: 100.00%F1-Score: 100.00%
+threshold: 75.00%
+second: 0
+micro: 627493
+timestamp: 20220511-183943
+数据集: SMD_1_6
+模型:LSTM_VAE
+Accuracy: 72.56%Precision: 50.85%Recall: 100.00%F1-Score: 67.42%
+threshold: 5.00%
+second: 0
+micro: 668190
+timestamp: 20220511-184000
+数据集: SMD_1_7
+模型:LSTM_VAE
+Accuracy: 89.77%Precision: 70.59%Recall: 92.31%F1-Score: 80.00%
+threshold: 15.00%
+second: 0
+micro: 607704
+timestamp: 20220511-184017
+数据集: SMD_1_8
+模型:LSTM_VAE
+Accuracy: 95.60%Precision: 90.00%Recall: 90.00%F1-Score: 90.00%
+threshold: 25.00%
+second: 0
+micro: 695300
+timestamp: 20220511-184148
+数据集: SMD_2_1
+模型:LSTM_VAE
+Accuracy: 94.56%Precision: 76.47%Recall: 100.00%F1-Score: 86.67%
+threshold: 15.00%
+second: 0
+micro: 614516
+timestamp: 20220511-184204
+数据集: SMD_2_2
+模型:LSTM_VAE
+Accuracy: 87.75%Precision: 90.00%Recall: 81.82%F1-Score: 85.71%
+threshold: 55.00%
+second: 0
+micro: 613509
+timestamp: 20220511-184221
+数据集: SMD_2_3
+模型:LSTM_VAE
+Accuracy: 98.74%Precision: 87.50%Recall: 70.00%F1-Score: 77.78%
+threshold: 35.00%
+second: 0
+micro: 671307
+timestamp: 20220511-184238
+数据集: SMD_2_4
+模型:LSTM_VAE
+Accuracy: 92.15%Precision: 88.89%Recall: 80.00%F1-Score: 84.21%
+threshold: 15.00%
+second: 0
+micro: 613870
+timestamp: 20220511-184255
+数据集: SMD_2_5
+模型:LSTM_VAE
+Accuracy: 94.68%Precision: 86.36%Recall: 90.48%F1-Score: 88.37%
+threshold: 15.00%
+second: 0
+micro: 622547
+timestamp: 20220511-184315
+数据集: SMD_2_6
+模型:LSTM_VAE
+Accuracy: 98.33%Precision: 87.50%Recall: 87.50%F1-Score: 87.50%
+threshold: 15.00%
+second: 0
+micro: 804679
+timestamp: 20220511-184332
+数据集: SMD_2_7
+模型:LSTM_VAE
+Accuracy: 97.09%Precision: 95.24%Recall: 100.00%F1-Score: 97.56%
+threshold: 15.00%
+second: 0
+micro: 613092
+timestamp: 20220511-184348
+数据集: SMD_2_8
+模型:LSTM_VAE
+Accuracy: 29.97%Precision: 100.00%Recall: 100.00%F1-Score: 100.00%
+threshold: 5.00%
+second: 0
+micro: 608748
+timestamp: 20220511-184408
+数据集: SMD_2_9
+模型:LSTM_VAE
+Accuracy: 88.85%Precision: 55.56%Recall: 100.00%F1-Score: 71.43%
+threshold: 5.00%
+second: 0
+micro: 799608
+timestamp: 20220511-184751
+数据集: SMD_3_1
+模型:LSTM_VAE
+Accuracy: 98.83%Precision: 100.00%Recall: 100.00%F1-Score: 100.00%
+threshold: 35.00%
+second: 0
+micro: 751978
+timestamp: 20220511-184808
+数据集: SMD_3_2
+模型:LSTM_VAE
+Accuracy: 95.06%Precision: 87.50%Recall: 70.00%F1-Score: 77.78%
+threshold: 25.00%
+second: 0
+micro: 617439
+timestamp: 20220511-184825
+数据集: SMD_3_3
+模型:LSTM_VAE
+Accuracy: 96.78%Precision: 88.00%Recall: 84.62%F1-Score: 86.27%
+threshold: 15.00%
+second: 0
+micro: 676932
+timestamp: 20220511-184842
+数据集: SMD_3_4
+模型:LSTM_VAE
+Accuracy: 95.23%Precision: 88.89%Recall: 100.00%F1-Score: 94.12%
+threshold: 45.00%
+second: 0
+micro: 617638
+timestamp: 20220511-184859
+数据集: SMD_3_5
+模型:LSTM_VAE
+Accuracy: 95.81%Precision: 88.89%Recall: 72.73%F1-Score: 80.00%
+threshold: 15.00%
+second: 0
+micro: 668437
+timestamp: 20220511-184919
+数据集: SMD_3_6
+模型:LSTM_VAE
+Accuracy: 95.68%Precision: 91.67%Recall: 100.00%F1-Score: 95.65%
+threshold: 25.00%
+second: 0
+micro: 742572
+timestamp: 20220511-184939
+数据集: SMD_3_7
+模型:LSTM_VAE
+Accuracy: 98.45%Precision: 100.00%Recall: 80.00%F1-Score: 88.89%
+threshold: 45.00%
+second: 0
+micro: 743134
+timestamp: 20220511-185000
+数据集: SMD_3_8
+模型:LSTM_VAE
+Accuracy: 95.04%Precision: 75.00%Recall: 100.00%F1-Score: 85.71%
+threshold: 75.00%
+second: 0
+micro: 811248
+timestamp: 20220511-185020
+数据集: SMD_3_9
+模型:LSTM_VAE
+Accuracy: 97.69%Precision: 100.00%Recall: 100.00%F1-Score: 100.00%
+threshold: 45.00%
+second: 0
+micro: 749497
+timestamp: 20220511-185037
+数据集: SMD_3_10
+模型:LSTM_VAE
+Accuracy: 41.91%Precision: 52.00%Recall: 100.00%F1-Score: 68.42%
+threshold: 5.00%
+second: 0
+micro: 609501
+timestamp: 20220511-185057
+数据集: SMD_3_11
+模型:LSTM_VAE
+Accuracy: 66.58%Precision: 60.00%Recall: 100.00%F1-Score: 75.00%
+threshold: 5.00%
+second: 0
+micro: 791509

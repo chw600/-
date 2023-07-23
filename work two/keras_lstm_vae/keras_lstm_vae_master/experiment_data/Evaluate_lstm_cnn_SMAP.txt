@@ -1,0 +1,70 @@
+timestamp: 20220520-134900
+数据集: SMAP_A_2
+模型:LSTM_CNN
+Accuracy: 1.40%Precision: 100.00%Recall: 100.00%F1-Score: 100.00%
+threshold: 0.00%
+second: 0
+micro: 173747
+timestamp: 20220520-134939
+数据集: SMAP_A_3
+模型:LSTM_CNN
+Accuracy: 2.27%Precision: 100.00%Recall: 100.00%F1-Score: 100.00%
+threshold: 0.00%
+second: 0
+micro: 177699
+timestamp: 20220520-135042
+数据集: SMAP_E_13
+模型:LSTM_CNN
+Accuracy: 96.83%Precision: 100.00%Recall: 100.00%F1-Score: 100.00%
+threshold: 70.00%
+second: 0
+micro: 191129
+timestamp: 20220520-135142
+数据集: SMAP_F_1
+模型:LSTM_CNN
+Accuracy: 1.18%Precision: 100.00%Recall: 100.00%F1-Score: 100.00%
+threshold: 0.00%
+second: 0
+micro: 190179
+timestamp: 20220520-135233
+数据集: SMAP_G_1
+模型:LSTM_CNN
+Accuracy: 1.43%Precision: 100.00%Recall: 100.00%F1-Score: 100.00%
+threshold: 0.00%
+second: 0
+micro: 184360
+timestamp: 20220520-135324
+数据集: SMAP_G_4
+模型:LSTM_CNN
+Accuracy: 0.41%Precision: 100.00%Recall: 100.00%F1-Score: 100.00%
+threshold: 0.00%
+second: 0
+micro: 168319
+timestamp: 20220520-135420
+数据集: SMAP_P_2
+模型:LSTM_CNN
+Accuracy: 15.56%Precision: 100.00%Recall: 100.00%F1-Score: 100.00%
+threshold: 0.00%
+second: 0
+micro: 180008
+timestamp: 20220520-135517
+数据集: SMAP_T_1
+模型:LSTM_CNN
+Accuracy: 17.85%Precision: 66.67%Recall: 100.00%F1-Score: 80.00%
+threshold: 0.00%
+second: 0
+micro: 190925
+timestamp: 20220520-135559
+数据集: SMAP_T_2
+模型:LSTM_CNN
+Accuracy: 0.00%Precision: 0.00%Recall: 0.00%F1-Score: 0.00%
+threshold: 0.00%
+second: 0
+micro: 178975
+timestamp: 20220520-135634
+数据集: SMAP_T_3
+模型:LSTM_CNN
+Accuracy: 2.15%Precision: 66.67%Recall: 100.00%F1-Score: 80.00%
+threshold: 0.00%
+second: 0
+micro: 189230

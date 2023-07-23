@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://root@47.95.204.79:22/root/pyEnvironment/tf_py3/bin/python3.6">
+          <settings>
+            <list>
+              <mapping local-root="E:/Cnn_Autoencoder" remote-root="/home/yjc/home/yjc" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>

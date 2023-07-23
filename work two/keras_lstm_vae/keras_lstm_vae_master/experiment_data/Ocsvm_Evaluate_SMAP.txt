@@ -1,0 +1,66 @@
+timestamp: 20220520-141131
+数据集: SMAP_A_2
+模型:LSTM_VAE
+Precision: 50.00%Recall: 100.00%F1-Score: 66.67%
+second: 0
+micro: 72303
+timestamp: 20220520-141206
+数据集: SMAP_A_2
+模型:Ocsvm
+Precision: 50.00%Recall: 100.00%F1-Score: 66.67%
+second: 0
+micro: 72785
+timestamp: 20220520-141237
+数据集: SMAP_A_3
+模型:Ocsvm
+Precision: 50.00%Recall: 100.00%F1-Score: 66.67%
+second: 0
+micro: 79456
+timestamp: 20220520-141320
+数据集: SMAP_E_13
+模型:Ocsvm
+Precision: 37.50%Recall: 100.00%F1-Score: 54.54%
+second: 0
+micro: 86180
+timestamp: 20220520-141412
+数据集: SMAP_F_1
+模型:Ocsvm
+Precision: 50.00%Recall: 100.00%F1-Score: 66.67%
+second: 0
+micro: 84345
+timestamp: 20220520-141443
+数据集: SMAP_G_1
+模型:Ocsvm
+Precision: 50.00%Recall: 100.00%F1-Score: 66.67%
+second: 0
+micro: 81646
+timestamp: 20220520-141506
+数据集: SMAP_G_4
+模型:Ocsvm
+Precision: 50.00%Recall: 100.00%F1-Score: 66.67%
+second: 0
+micro: 70955
+timestamp: 20220520-141637
+数据集: SMAP_P_2
+模型:Ocsvm
+Precision: 50.00%Recall: 100.00%F1-Score: 66.67%
+second: 0
+micro: 80393
+timestamp: 20220520-141710
+数据集: SMAP_T_1
+模型:Ocsvm
+Precision: 40.00%Recall: 100.00%F1-Score: 57.14%
+second: 0
+micro: 86219
+timestamp: 20220520-141735
+数据集: SMAP_T_2
+模型:Ocsvm
+Precision: 0.00%Recall: 0.00%F1-Score: 0.00%
+second: 0
+micro: 83050
+timestamp: 20220520-141757
+数据集: SMAP_T_3
+模型:Ocsvm
+Precision: 40.00%Recall: 100.00%F1-Score: 57.14%
+second: 0
+micro: 94346

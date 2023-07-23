@@ -1,0 +1,70 @@
+timestamp: 20220520-115348
+数据集: SMAP_A_2
+模型:LSTM_VAE
+Accuracy: 1.40%Precision: 100.00%Recall: 100.00%F1-Score: 100.00%
+threshold: 0.00%
+second: 0
+micro: 166463
+timestamp: 20220520-115539
+数据集: SMAP_A_3
+模型:LSTM_VAE
+Accuracy: 2.27%Precision: 100.00%Recall: 100.00%F1-Score: 100.00%
+threshold: 0.00%
+second: 0
+micro: 170306
+timestamp: 20220520-133230
+数据集: SMAP_E_13
+模型:LSTM_VAE
+Accuracy: 93.87%Precision: 75.00%Recall: 100.00%F1-Score: 85.71%
+threshold: 40.00%
+second: 0
+micro: 186197
+timestamp: 20220520-133338
+数据集: SMAP_F_1
+模型:LSTM_VAE
+Accuracy: 1.18%Precision: 100.00%Recall: 100.00%F1-Score: 100.00%
+threshold: 0.00%
+second: 0
+micro: 180482
+timestamp: 20220520-133437
+数据集: SMAP_G_1
+模型:LSTM_VAE
+Accuracy: 1.43%Precision: 100.00%Recall: 100.00%F1-Score: 100.00%
+threshold: 0.00%
+second: 0
+micro: 182522
+timestamp: 20220520-133523
+数据集: SMAP_G_4
+模型:LSTM_VAE
+Accuracy: 0.41%Precision: 100.00%Recall: 100.00%F1-Score: 100.00%
+threshold: 0.00%
+second: 0
+micro: 207200
+timestamp: 20220520-133641
+数据集: SMAP_P_2
+模型:LSTM_VAE
+Accuracy: 15.56%Precision: 100.00%Recall: 100.00%F1-Score: 100.00%
+threshold: 0.00%
+second: 0
+micro: 170310
+timestamp: 20220520-133813
+数据集: SMAP_T_1
+模型:LSTM_VAE
+Accuracy: 17.85%Precision: 66.67%Recall: 100.00%F1-Score: 80.00%
+threshold: 0.00%
+second: 0
+micro: 183198
+timestamp: 20220520-133901
+数据集: SMAP_T_2
+模型:LSTM_VAE
+Accuracy: 0.00%Precision: 0.00%Recall: 0.00%F1-Score: 0.00%
+threshold: 0.00%
+second: 0
+micro: 171394
+timestamp: 20220520-133937
+数据集: SMAP_T_3
+模型:LSTM_VAE
+Accuracy: 95.86%Precision: 100.00%Recall: 100.00%F1-Score: 100.00%
+threshold: 30.00%
+second: 0
+micro: 180783
